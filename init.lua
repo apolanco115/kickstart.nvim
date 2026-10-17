@@ -735,6 +735,7 @@ do
   local servers = {
     -- clangd = {},
     -- gopls = {},
+    clangd = {},
     basedpyright = {},
     ruff = {},
     -- tsc = {},
